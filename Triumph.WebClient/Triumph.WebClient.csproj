@@ -12,6 +12,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Triumph.BusinessService\Triumph.BusinessService.csproj" />
+    <ProjectReference Include="..\Triumph.DataAccessLayer\Triumph.DataAccessLayer.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Services\" />
   </ItemGroup>
 </Project>

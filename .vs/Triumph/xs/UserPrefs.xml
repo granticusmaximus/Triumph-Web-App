@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{C1DA1100-5749-4558-BE42-09E515C8A852}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Triumph" expanded="True" selected="True">
+            <Node name="Triumph.DataAccessLayer" expanded="True">
+              <Node name="DataControl" expanded="True" />
+            </Node>
+            <Node name="Triumph.WebClient" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Triumph.WebClient PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

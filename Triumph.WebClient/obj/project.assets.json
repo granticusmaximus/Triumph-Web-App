@@ -4439,19 +4439,6 @@
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
       },
-      "Triumph.BusinessService/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v2.2",
-        "dependencies": {
-          "Triumph.DataAccessLayer": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Triumph.BusinessService.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Triumph.BusinessService.dll": {}
-        }
-      },
       "Triumph.DataAccessLayer/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.2",
@@ -12160,11 +12147,6 @@
         "system.xml.xpath.xdocument.nuspec"
       ]
     },
-    "Triumph.BusinessService/1.0.0": {
-      "type": "project",
-      "path": "../Triumph.BusinessService/Triumph.BusinessService.csproj",
-      "msbuildProject": "../Triumph.BusinessService/Triumph.BusinessService.csproj"
-    },
     "Triumph.DataAccessLayer/1.0.0": {
       "type": "project",
       "path": "../Triumph.DataAccessLayer/Triumph.DataAccessLayer.csproj",
@@ -12176,7 +12158,7 @@
       "Microsoft.AspNetCore.App >= 2.2.0",
       "Microsoft.AspNetCore.Razor.Design >= 2.2.0",
       "Microsoft.NETCore.App >= 2.2.0",
-      "Triumph.BusinessService >= 1.0.0"
+      "Triumph.DataAccessLayer >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -12207,8 +12189,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "/Users/grantwatson/Desktop/Triumph Business Plan/Triumph/Triumph-Web-App/Triumph.BusinessService/Triumph.BusinessService.csproj": {
-              "projectPath": "/Users/grantwatson/Desktop/Triumph Business Plan/Triumph/Triumph-Web-App/Triumph.BusinessService/Triumph.BusinessService.csproj"
+            "/Users/grantwatson/Desktop/Triumph Business Plan/Triumph/Triumph-Web-App/Triumph.DataAccessLayer/Triumph.DataAccessLayer.csproj": {
+              "projectPath": "/Users/grantwatson/Desktop/Triumph Business Plan/Triumph/Triumph-Web-App/Triumph.DataAccessLayer/Triumph.DataAccessLayer.csproj"
             }
           }
         }
