@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triumph.WebClient", "Triumph.WebClient\Triumph.WebClient.csproj", "{C1DA1100-5749-4558-BE42-09E515C8A852}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triumph.DataAccessLayer", "Triumph.DataAccessLayer\Triumph.DataAccessLayer.csproj", "{2446D334-62DA-4B2E-9526-89CA8BD2CFD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triumph.BusinessService", "Triumph.BusinessService\Triumph.BusinessService.csproj", "{E620F27D-489B-4DF8-83D6-5C02B627A6F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1DA1100-5749-4558-BE42-09E515C8A852}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1DA1100-5749-4558-BE42-09E515C8A852}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1DA1100-5749-4558-BE42-09E515C8A852}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1DA1100-5749-4558-BE42-09E515C8A852}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2446D334-62DA-4B2E-9526-89CA8BD2CFD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2446D334-62DA-4B2E-9526-89CA8BD2CFD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2446D334-62DA-4B2E-9526-89CA8BD2CFD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2446D334-62DA-4B2E-9526-89CA8BD2CFD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E620F27D-489B-4DF8-83D6-5C02B627A6F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E620F27D-489B-4DF8-83D6-5C02B627A6F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E620F27D-489B-4DF8-83D6-5C02B627A6F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E620F27D-489B-4DF8-83D6-5C02B627A6F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
