@@ -16,5 +16,15 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Services\" />
+    <Folder Include="Views\Account\" />
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="Views\Account\Login.cshtml" />
+    <Content Remove="Views\Account\Logout.cshtml" />
+    <Content Remove="wwwroot\favicon.ico" />
+    <Content Remove="wwwroot\js\site.js" />
+    <Content Remove="wwwroot\lib\bootstrap\dist\css\bootstrap.css" />
+    <Content Remove="wwwroot\lib\bootstrap\dist\css\bootstrap.css.map" />
   </ItemGroup>
 </Project>

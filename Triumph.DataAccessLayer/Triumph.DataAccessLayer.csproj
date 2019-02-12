@@ -8,11 +8,19 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.2.2" />
   </ItemGroup>
 
   <ItemGroup>
     <Folder Include="DataControl\" />
     <Folder Include="Repositories\" />
     <Folder Include="DataControl\Models\" />
+    <Folder Include="Areas\Identity\Data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="wwwroot\lib\bootstrap\dist\css\bootstrap-theme.css.map" />
+    <Content Remove="wwwroot\lib\bootstrap\dist\css\bootstrap-theme.min.css" />
+    <Content Remove="wwwroot\lib\bootstrap\dist\css\bootstrap-theme.min.css.map" />
+    <Content Remove="wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.eot" />
   </ItemGroup>
 </Project>

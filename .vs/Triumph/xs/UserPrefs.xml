@@ -3,11 +3,18 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Triumph" expanded="True" selected="True">
+          <Node name="Triumph" expanded="True">
             <Node name="Triumph.DataAccessLayer" expanded="True">
-              <Node name="DataControl" expanded="True" />
+              <Node name="Areas" expanded="True">
+                <Node name="Identity" expanded="True">
+                  <Node name="Pages" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="appsettings.Development.json" selected="True" />
             </Node>
-            <Node name="Triumph.WebClient" expanded="True" />
+            <Node name="Triumph.WebClient" expanded="True">
+              <Node name="Views" expanded="True" />
+            </Node>
           </Node>
         </State>
       </Pad>

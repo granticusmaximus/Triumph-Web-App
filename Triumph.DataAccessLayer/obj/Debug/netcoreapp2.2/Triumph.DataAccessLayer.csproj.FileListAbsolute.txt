@@ -1,0 +1,14 @@
+/Users/grantwatson/Desktop/Triumph Business Plan/Triumph/Triumph-Web-App/Triumph.DataAccessLayer/bin/Debug/netcoreapp2.2/Triumph.DataAccessLayer.deps.json
+/Users/grantwatson/Desktop/Triumph Business Plan/Triumph/Triumph-Web-App/Triumph.DataAccessLayer/bin/Debug/netcoreapp2.2/Triumph.DataAccessLayer.runtimeconfig.json
+/Users/grantwatson/Desktop/Triumph Business Plan/Triumph/Triumph-Web-App/Triumph.DataAccessLayer/bin/Debug/netcoreapp2.2/Triumph.DataAccessLayer.runtimeconfig.dev.json
+/Users/grantwatson/Desktop/Triumph Business Plan/Triumph/Triumph-Web-App/Triumph.DataAccessLayer/bin/Debug/netcoreapp2.2/Triumph.DataAccessLayer.dll
+/Users/grantwatson/Desktop/Triumph Business Plan/Triumph/Triumph-Web-App/Triumph.DataAccessLayer/bin/Debug/netcoreapp2.2/Triumph.DataAccessLayer.pdb
+/Users/grantwatson/Desktop/Triumph Business Plan/Triumph/Triumph-Web-App/Triumph.DataAccessLayer/obj/Debug/netcoreapp2.2/Triumph.DataAccessLayer.csprojAssemblyReference.cache
+/Users/grantwatson/Desktop/Triumph Business Plan/Triumph/Triumph-Web-App/Triumph.DataAccessLayer/obj/Debug/netcoreapp2.2/Triumph.DataAccessLayer.csproj.CoreCompileInputs.cache
+/Users/grantwatson/Desktop/Triumph Business Plan/Triumph/Triumph-Web-App/Triumph.DataAccessLayer/obj/Debug/netcoreapp2.2/Triumph.DataAccessLayer.RazorAssemblyInfo.cache
+/Users/grantwatson/Desktop/Triumph Business Plan/Triumph/Triumph-Web-App/Triumph.DataAccessLayer/obj/Debug/netcoreapp2.2/Triumph.DataAccessLayer.RazorAssemblyInfo.cs
+/Users/grantwatson/Desktop/Triumph Business Plan/Triumph/Triumph-Web-App/Triumph.DataAccessLayer/obj/Debug/netcoreapp2.2/Triumph.DataAccessLayer.AssemblyInfoInputs.cache
+/Users/grantwatson/Desktop/Triumph Business Plan/Triumph/Triumph-Web-App/Triumph.DataAccessLayer/obj/Debug/netcoreapp2.2/Triumph.DataAccessLayer.AssemblyInfo.cs
+/Users/grantwatson/Desktop/Triumph Business Plan/Triumph/Triumph-Web-App/Triumph.DataAccessLayer/obj/Debug/netcoreapp2.2/Triumph.DataAccessLayer.RazorTargetAssemblyInfo.cache
+/Users/grantwatson/Desktop/Triumph Business Plan/Triumph/Triumph-Web-App/Triumph.DataAccessLayer/obj/Debug/netcoreapp2.2/Triumph.DataAccessLayer.dll
+/Users/grantwatson/Desktop/Triumph Business Plan/Triumph/Triumph-Web-App/Triumph.DataAccessLayer/obj/Debug/netcoreapp2.2/Triumph.DataAccessLayer.pdb
